@@ -2,31 +2,33 @@
 ## Guests
 <br>
 **"Kids"**
+<br>
 1. Bobby King
-- Joey Amendolare
-- Robbie Bocchicchio
-- Angelo Wresch
-- Sheamus Campbell
-- Luke Schichitanno
-- Zak Davis
-- Lynne Shalley
-- Cassie Averbuch
-- Nicole Pulverenti
-- Greg Smith
-- Kallie
-- Caroline Smith
-- Pat Walsh
+1. Joey Amendolare
+1. Robbie Bocchicchio
+1. Angelo Wresch
+1. Sheamus Campbell
+1. Luke Schichitanno
+1. Zak Davis
+1. Lynne Shalley
+1. Cassie Averbuch
+1. Nicole Pulverenti
+1. Greg Smith
+1. Kallie
+1. Caroline Smith
+1. Pat Walsh
 <br>
 
 **"Parents"**
+<br>
 1. King family
-- +1
-- Bocchicchio family
-- +1
-- Amendolare Family
-- +1
-- +1 (Maybe Chris)
-- Val
+1. +1
+1. Bocchicchio family
+1. +1
+1. Amendolare Family
+1. +1
+1. +1 (Maybe Chris)
+1. Val
 
 ## Location
 Tisbury, MA
